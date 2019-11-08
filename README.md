@@ -1,6 +1,8 @@
 # Batch-RL-Paper-Lists
 Paper Collection for Batch RL with brief introductions.
 
+Batch RL can be seen as an interesting specifc area in imitation learning yet it learn purely from demonstrations (batch data) and do not need to interact with the environment.
+
 # Overview
 
 TBA
