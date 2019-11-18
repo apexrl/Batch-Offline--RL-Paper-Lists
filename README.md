@@ -7,7 +7,13 @@ Batch RL can be seen as an interesting specifc area in imitation learning yet it
 
 TBA
 
-## Papers
+
+## Try to imitate without interacting with environments
+
+* <[Exponentially Weighted Imitation Learning for Batched Historical Data
+](https://papers.nips.cc/paper/7866-exponentially-weighted-imitation-learning-for-batched-historical-data.pdf)> by Qing Wang, Jiechao Xiong, Lei Han, Peng Sun, Han Liu and Tong Zhang, NIPS 2018.
+
+## General Batch RL
 
 * <[Benchmarking Batch Deep Reinforcement Learning Algorithms](https://arxiv.org/abs/1910.01708Scott)> by Fujimoto, Edoardo Conti, Mohammad Ghavamzadeh, Joelle Pineau, 2019.
 
