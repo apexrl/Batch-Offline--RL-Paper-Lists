@@ -15,7 +15,7 @@ TBA
 
 ## General Batch RL
 
-* <[Benchmarking Batch Deep Reinforcement Learning Algorithms](https://arxiv.org/abs/1910.01708Scott)> by Fujimoto, Edoardo Conti, Mohammad Ghavamzadeh, Joelle Pineau, 2019.
+* <[Benchmarking Batch Deep Reinforcement Learning Algorithms](https://arxiv.org/abs/1910.01708)> by Fujimoto, Edoardo Conti, Mohammad Ghavamzadeh, Joelle Pineau, 2019.
 
 * <[Truly Batch Apprenticeship Learning with Deep Successor Features](https://arxiv.org/pdf/1903.10077)>, Donghun Lee, Srivatsan Srinivasan and Finale Doshi-Velez, 2019.
 
