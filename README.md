@@ -15,7 +15,7 @@ TBA
 ## Early Work
 
 - [LSPI] <[Least-squares policy iteration](http://www.jmlr.org/papers/v4/lagoudakis03a.html)> by Michail G. Lagoudakis, Ronald Parr, 2003.
-- [FQI] <[Tree-based batch mode reinforcement learning](http://www.jmlr.org/papers/v6/ernst05a.html?utm_campaign=RL Weekly&utm_medium=email&utm_source=Revue newsletter)> by Damien Ernst, Pierre Geurts, Louis Wehenkel, 2005.
+- [FQI] <[Tree-based batch mode reinforcement learning](https://www.jmlr.org/papers/volume6/ernst05a/ernst05a.pdf)> by Damien Ernst, Pierre Geurts, Louis Wehenkel, 2005.
 - [NQI] <[Neural fitted Q iteration–first experiences with a data efficient neural reinforcement learning method](https://link.springer.com/chapter/10.1007/11564096_32)> by Martin Riedmiller, 2005.
 
 ## Try to imitate without interacting with environments
@@ -85,6 +85,12 @@ TBA
 * [D4rl] <[D4rl: Datasets for deep data-driven reinforcement learning](https://arxiv.org/abs/2004.07219)> by Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, Sergey Levine, 2020.
 
 * <[Rl unplugged: Benchmarks for offline reinforcement learning](https://arxiv.org/abs/2006.13888)> by Caglar Gulcehre, et al, 2020.
+
+## Applied Batch RL
+
+- <[Scaling data-driven robotics with reward sketching and batch reinforcement learning](https://ui.adsabs.harvard.edu/abs/2019arXiv190912200C/abstract)> by Ajay Mandlekar, et al., 2019.
+
+- <[Iris: Implicit reinforcement without interaction at scale for learning control from offline robot manipulation data](https://ieeexplore.ieee.org/abstract/document/9196935/)> by Ajay Mandlekar, et al., 2020.
 
 
 
