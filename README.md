@@ -93,8 +93,6 @@ TBA
 
 * <[What are the Statistical Limits of Offline RL with Linear Function Approximation?](https://openreview.net/forum?id=30EvkP2aQLD)> by Ruosong Wang, Dean P. Foster, Shan M. Kakade, ICLR 2021.
 
-* <[Autoregressive Dynamics Models for Offline Policy Evaluation and Optimization](https://openreview.net/forum?id=kmqjgSNXby)> by Michael R Zhang, Thomas Paine, Ofir Nachum, Cosmin Paduraru, George Tucker, ziyu wang, Mohammad Norouzi, ICLR 2021.
-
 * [COMBO] <[COMBO: Conservative Offline Model-Based Policy Optimization](https://arxiv.org/abs/2102.08363)> by Tianhe Yu, Aviral Kumar, Rafael Rafailov, Aravind Rajeswaran, Sergey Levine, Chelsea Finn, 2021.
 
     ### Model-based
@@ -106,6 +104,8 @@ TBA
 * [MOOSE] <[Overcoming Model Bias for Robust Offline Deep Reinforcement Learning](https://arxiv.org/abs/2008.05533)> by Phillip Swazinna, Steffen Udluft, Thomas Runkler, 2020.
 
 * <[Model-Based Offline Planning](https://arxiv.org/abs/2008.05556)> by Arthur Argenson, Gabriel Dulac-Arnold, ICLR 2021.
+
+* <[Autoregressive Dynamics Models for Offline Policy Evaluation and Optimization](https://openreview.net/forum?id=kmqjgSNXby)> by Michael R Zhang, Thomas Paine, Ofir Nachum, Cosmin Paduraru, George Tucker, ziyu wang, Mohammad Norouzi, ICLR 2021.
 
     ### Benchmark
 
