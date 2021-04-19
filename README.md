@@ -28,6 +28,10 @@ TBA
 
 ### 			Model-free
 
+* [DQfD] <[Deep Q-learning from Demonstrations](https://arxiv.org/abs/1704.03732)> by Todd Hester, Matej Vecerik, Olivier Pietquin, Marc Lanctot, Tom Schaul, Bilal Piot, Dan Horgan, John Quan, Andrew Sendonaris, Gabriel Dulac-Arnold, Ian Osband, John Agapiou, Joel Z. Leibo, Audrunas Gruslys, 2017.
+
+* [NAC] <[Reinforcement Learning from Imperfect Demonstrations](https://arxiv.org/abs/1802.05313)> by Yang Gao, Huazhe Xu, Ji Lin, Fisher Yu, Sergey Levine, Trevor Darrell, ICML 2018.
+
 * [BEAR] <[Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://arxiv.org/1906.00949)> by Aviral Kumar, Justin Fu, George Tucker and Sergey Levine, NIPS 2019.
 * [DualDICE] <[Dualdice: Behavior-agnostic estimation of discounted stationary distribution corrections](http://papers.nips.cc/paper/8503-dualdice-behavior-agnostic-estimation-of-discounted-stationary-distribution-corrections)> by Ofir Nachum, Yinlam Chow, Bo Dai, Lihong Li, ICML 2019.
 * [SPIBB] <[Safe policy improvement with baseline bootstrapping](http://proceedings.mlr.press/v97/laroche19a/laroche19a.pdf)> by Romain Laroche, Paul Trichelair, Remi Tachet des Combes, ICML 2019.
@@ -42,6 +46,8 @@ TBA
 * [BRAC] <[Behavior Regularized Offline Reinforcement Learning](https://arxiv.org/abs/1911.11361)> by Yifan Wu, George Tucker, Ofir Nachum, 2019.
 
 * [AlgaeDICE] <[AlgaeDICE: Policy Gradient from Arbitrary Experience](https://arxiv.org/abs/1912.02074)> by Ofir Nachum, Bo Dai, Ilya Kostrikov, Yinlam Chow, Lihong LI, Dale Schuurmans, 2019.
+
+* [2IWIL] <[Imitation Learning from Imperfect Demonstration](https://arxiv.org/abs/1901.09387)> by Yueh-Hua Wu, Nontawat Charoenphakdee, Han Bao, Voot Tangkaratt, Masashi Sugiyama, 2019.
 
 * [ABM] <[Keep Doing What Worked: Behavioral Modelling Priors for Offline Reinforcement Learning](https://arxiv.org/abs/2002.08396)> by Siegel et al., ICLR 2020.
 
@@ -75,6 +81,10 @@ TBA
 
 * [BREMEN] <[Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization](https://arxiv.org/abs/2006.03647)> by Tatsuya Matsushima, Hiroki Furuta, Yutaka Matsuo, Ofir Nachum, Shixiang Shane Gu, 2020.
 
+* [UWAC] <[Uncertainty Weighted Offline Reinforcement Learning](https://openreview.net/forum?id=7hMenh--8g)> by Yue Wu, Shuangfei Zhai, Nitish Srivastava, Joshua M. Susskind, Jian Zhang, Ruslan Salakhutdinov, Hanlin Goh, 2020.
+
+* [CRR] <[Critic Regularized Regression](https://arxiv.org/abs/2006.15134)> by Ziyu Wang, Alexander Novikov, Konrad Zolna, Jost Tobias Springenberg, Scott Reed, Bobak Shahriari, Noah Siegel, Josh Merel, Caglar Gulcehre, Nicolas Heess, Nando de Freitas, NIPS 2020.
+
 * [DAC-MDP] <[DeepAveragers: Offline Reinforcement Learning By Solving Derived Non-Parametric MDPs](https://openreview.net/forum?id=eMP1j9efXtX)> by Aayam Shrestha, Stefan Lee, Prasad Tadepalli, Alan Fern, ICLR 2021.
 
 * [OPAL] <[OPAL: Offline Primitive Discovery for Accelerating Offline Reinforcement Learning](https://openreview.net/forum?id=V69LGwJ0lIN)> by Anurag Ajay, Aviral Kumar, Pulkit Agrawal, Sergey Levine, Ofir Nachum, ICLR 2021.
@@ -82,6 +92,8 @@ TBA
 * [O-RAAC] <[Risk-Averse Offline Reinforcement Learning](https://openreview.net/forum?id=TBIzh9b5eaz)> by Nuria Armengol Urpi, Sebastian Curi, Andreas Krause, ICLR 2021.
 
 * <[What are the Statistical Limits of Offline RL with Linear Function Approximation?](https://openreview.net/forum?id=30EvkP2aQLD)> by Ruosong Wang, Dean P. Foster, Shan M. Kakade, ICLR 2021.
+
+* [COMBO] <[COMBO: Conservative Offline Model-Based Policy Optimization](https://arxiv.org/abs/2102.08363)> by Tianhe Yu, Aviral Kumar, Rafael Rafailov, Aravind Rajeswaran, Sergey Levine, Chelsea Finn, 2021.
 
     ### Model-based
 
@@ -92,6 +104,8 @@ TBA
 * [MOOSE] <[Overcoming Model Bias for Robust Offline Deep Reinforcement Learning](https://arxiv.org/abs/2008.05533)> by Phillip Swazinna, Steffen Udluft, Thomas Runkler, 2020.
 
 * <[Model-Based Offline Planning](https://arxiv.org/abs/2008.05556)> by Arthur Argenson, Gabriel Dulac-Arnold, ICLR 2021.
+
+* <[Autoregressive Dynamics Models for Offline Policy Evaluation and Optimization](https://openreview.net/forum?id=kmqjgSNXby)> by Michael R Zhang, Thomas Paine, Ofir Nachum, Cosmin Paduraru, George Tucker, ziyu wang, Mohammad Norouzi, ICLR 2021.
 
     ### Benchmark
 
