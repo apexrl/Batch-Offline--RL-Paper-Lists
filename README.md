@@ -26,26 +26,33 @@ TBA
 
 ## General Batch RL
 
-### 			Model-free
+### Model-free
 
 * [DQfD] <[Deep Q-learning from Demonstrations](https://arxiv.org/abs/1704.03732)> by Todd Hester, Matej Vecerik, Olivier Pietquin, Marc Lanctot, Tom Schaul, Bilal Piot, Dan Horgan, John Quan, Andrew Sendonaris, Gabriel Dulac-Arnold, Ian Osband, John Agapiou, Joel Z. Leibo, Audrunas Gruslys, 2017.
 
 * [NAC] <[Reinforcement Learning from Imperfect Demonstrations](https://arxiv.org/abs/1802.05313)> by Yang Gao, Huazhe Xu, Ji Lin, Fisher Yu, Sergey Levine, Trevor Darrell, ICML 2018.
 
 * [BEAR] <[Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://arxiv.org/1906.00949)> by Aviral Kumar, Justin Fu, George Tucker and Sergey Levine, NIPS 2019.
+
 * [DualDICE] <[Dualdice: Behavior-agnostic estimation of discounted stationary distribution corrections](http://papers.nips.cc/paper/8503-dualdice-behavior-agnostic-estimation-of-discounted-stationary-distribution-corrections)> by Ofir Nachum, Yinlam Chow, Bo Dai, Lihong Li, ICML 2019.
+
 * [SPIBB] <[Safe policy improvement with baseline bootstrapping](http://proceedings.mlr.press/v97/laroche19a/laroche19a.pdf)> by Romain Laroche, Paul Trichelair, Remi Tachet des Combes, ICML 2019.
+
 * <[Batch Policy Learning under Constraints](https://arxiv.org/abs/1903.08738)> by Hoang M. Le, Cameron Voloshin, Yisong Yue, ICML 2019.
+
 * [BCQ] <[Off-Policy Deep Reinforcement Learning without Exploration](https://arxiv.org/abs/1812.02900)> by Scott Fujimoto, David Meger and Doina Precup, ICML 2019.
+
 * <[Truly Batch Apprenticeship Learning with Deep Successor Features](https://arxiv.org/abs/1903.10077)>, Donghun Lee, Srivatsan Srinivasan and Finale Doshi-Velez, IJCAI 2019.
-* <[Benchmarking Batch Deep Reinforcement Learning Algorithms](https://arxiv.org/abs/1910.01708)> by Fujimoto, Edoardo Conti, Mohammad Ghavamzadeh, Joelle Pineau, 2019.
+
+* [BCQ-Discrete] <[Benchmarking Batch Deep Reinforcement Learning Algorithms](https://arxiv.org/abs/1910.01708)> by Fujimoto, Edoardo Conti, Mohammad Ghavamzadeh, Joelle Pineau, 2019.
+
 * <[On Value Discrepancy of Imitation Learning](https://arxiv.org/abs/1911.07027)> by Tian Xu, Ziniu Li, Yang Yu, 2019.
 
 * [AWR] <[Advantage-Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning](https://arxiv.org/abs/1910.00177)> by Xue Bin Peng,  Aviral Kumar,  Grace Zhang and Sergey Levine, 2019.
 
 * [BRAC] <[Behavior Regularized Offline Reinforcement Learning](https://arxiv.org/abs/1911.11361)> by Yifan Wu, George Tucker, Ofir Nachum, 2019.
 
-* [AlgaeDICE] <[AlgaeDICE: Policy Gradient from Arbitrary Experience](https://arxiv.org/abs/1912.02074)> by Ofir Nachum, Bo Dai, Ilya Kostrikov, Yinlam Chow, Lihong LI, Dale Schuurmans, 2019.
+* [AlgaeDICE] <[AlgaeDICE: Policy Gradient from Arbitrary Experience](https://arxiv.org/abs/1912.02074)> by Ofir Nachum, Bo Dai, Ilya Kostrikov, Yinlam Chow, Lihong Li, Dale Schuurmans, 2019.
 
 * [2IWIL] <[Imitation Learning from Imperfect Demonstration](https://arxiv.org/abs/1901.09387)> by Yueh-Hua Wu, Nontawat Charoenphakdee, Han Bao, Voot Tangkaratt, Masashi Sugiyama, 2019.
 
@@ -93,9 +100,7 @@ TBA
 
 * <[What are the Statistical Limits of Offline RL with Linear Function Approximation?](https://openreview.net/forum?id=30EvkP2aQLD)> by Ruosong Wang, Dean P. Foster, Shan M. Kakade, ICLR 2021.
 
-* [COMBO] <[COMBO: Conservative Offline Model-Based Policy Optimization](https://arxiv.org/abs/2102.08363)> by Tianhe Yu, Aviral Kumar, Rafael Rafailov, Aravind Rajeswaran, Sergey Levine, Chelsea Finn, 2021.
-
-    ### Model-based
+### Model-based
 
 * [MOReL] <[MOReL : Model-Based Offline Reinforcement Learning](https://arxiv.org/abs/2005.05951)> by Rahul Kidambi, Aravind Rajeswaran, Praneeth Netrapalli and Thorsten Joachims, NIPS 2020.
 
@@ -107,7 +112,9 @@ TBA
 
 * <[Autoregressive Dynamics Models for Offline Policy Evaluation and Optimization](https://openreview.net/forum?id=kmqjgSNXby)> by Michael R Zhang, Thomas Paine, Ofir Nachum, Cosmin Paduraru, George Tucker, ziyu wang, Mohammad Norouzi, ICLR 2021.
 
-    ### Benchmark
+* [COMBO] <[COMBO: Conservative Offline Model-Based Policy Optimization](https://arxiv.org/abs/2102.08363)> by Tianhe Yu, Aviral Kumar, Rafael Rafailov, Aravind Rajeswaran, Sergey Levine, Chelsea Finn, 2021.
+
+### Benchmark
 
 * [D4rl] <[D4rl: Datasets for deep data-driven reinforcement learning](https://arxiv.org/abs/2004.07219)> by Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, Sergey Levine, 2020.
 
