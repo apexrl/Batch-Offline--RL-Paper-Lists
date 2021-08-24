@@ -20,9 +20,11 @@ TBA
 - [FQI] <[Tree-based batch mode reinforcement learning](https://www.jmlr.org/papers/volume6/ernst05a/ernst05a.pdf)> by Damien Ernst, Pierre Geurts, Louis Wehenkel, 2005.
 - [NQI] <[Neural fitted Q iteration–first experiences with a data efficient neural reinforcement learning method](https://link.springer.com/chapter/10.1007/11564096_32)> by Martin Riedmiller, 2005.
 
-## Try to imitate without interacting with environments
+## Imitation without interacting with environments
 
 * <[Exponentially Weighted Imitation Learning for Batched Historical Data](https://papers.nips.cc/paper/7866-exponentially-weighted-imitation-learning-for-batched-historical-data.pdf)> by Qing Wang, Jiechao Xiong, Lei Han, Peng Sun, Han Liu and Tong Zhang, NIPS 2018.
+
+* [EDM] <[Strictly Batch Imitation Learning by Energy-based Distribution Matching](https://arxiv.org/abs/2006.14154)> by Daniel Jarrett, Ioana Bica and Mihaela van der Schaar, NIPS 2020.
 
 ## General Batch RL
 
@@ -80,8 +82,6 @@ TBA
 
 * [BAIL] <[BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning](https://arxiv.org/abs/1910.12179)> by Xinyue Chen, Zijian Zhou, Zheng Wang, Che Wang, Yanqiu Wu, Keith Ross, NIPS 2020.
 
-* [EDM] <[Strictly Batch Imitation Learning by Energy-based Distribution Matching](https://arxiv.org/abs/2006.14154)> by Daniel Jarrett, Ioana Bica and Mihaela van der Schaar, NIPS 2020.
-
 * [AWAC] <[Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359)> by Ashvin Nair, Murtaza Dalal, Abhishek Gupta, Sergey Levine, 2020.
 
 * [CQL] <[Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2006.04779)> by Aviral Kumar, Aurick Zhou, George Tucker, Sergey Levine, 2020.
@@ -124,9 +124,11 @@ TBA
 
 ## Applied Batch RL
 
-- <[Scaling data-driven robotics with reward sketching and batch reinforcement learning](https://ui.adsabs.harvard.edu/abs/2019arXiv190912200C/abstract)> by Ajay Mandlekar, et al., 2019.
-- <[Way Off-Policy Batch Deep Reinforcement Learning of Implicit Human Preferences in Dialog](https://arxiv.org/abs/1907.00456)> by Natasha Jaques et al., 2019.
-- <[Iris: Implicit reinforcement without interaction at scale for learning control from offline robot manipulation data](https://ieeexplore.ieee.org/abstract/document/9196935/)> by Ajay Mandlekar, et al., 2020.
+* <[Scaling data-driven robotics with reward sketching and batch reinforcement learning](https://ui.adsabs.harvard.edu/abs/2019arXiv190912200C/abstract)> by Ajay Mandlekar, et al., 2019.
+
+* <[Way Off-Policy Batch Deep Reinforcement Learning of Implicit Human Preferences in Dialog](https://arxiv.org/abs/1907.00456)> by Natasha Jaques et al., 2019.
+
+* <[Iris: Implicit reinforcement without interaction at scale for learning control from offline robot manipulation data](https://ieeexplore.ieee.org/abstract/document/9196935/)> by Ajay Mandlekar, et al., 2020.
 
 
 
