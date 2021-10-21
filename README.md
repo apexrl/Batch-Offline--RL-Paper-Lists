@@ -132,7 +132,7 @@ TBA
 
 ## Representation Learning
 
-* <Representation Matters: Offline Pretraining for Sequential Decision Making>(https://arxiv.org/abs/2102.05815) by Mengjiao Yang, Ofir Nachum, ICML 2021.
+* <[Representation Matters: Offline Pretraining for Sequential Decision Making](https://arxiv.org/abs/2102.05815)> by Mengjiao Yang, Ofir Nachum, ICML 2021.
 
 
 
