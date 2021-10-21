@@ -48,8 +48,6 @@ TBA
 
 * [BCQ-Discrete] <[Benchmarking Batch Deep Reinforcement Learning Algorithms](https://arxiv.org/abs/1910.01708)> by Fujimoto, Edoardo Conti, Mohammad Ghavamzadeh, Joelle Pineau, 2019.
 
-* <[On Value Discrepancy of Imitation Learning](https://arxiv.org/abs/1911.07027)> by Tian Xu, Ziniu Li, Yang Yu, 2019.
-
 * [AWR] <[Advantage-Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning](https://arxiv.org/abs/1910.00177)> by Xue Bin Peng,  Aviral Kumar,  Grace Zhang and Sergey Levine, 2019.
 
 * [BRAC] <[Behavior Regularized Offline Reinforcement Learning](https://arxiv.org/abs/1911.11361)> by Yifan Wu, George Tucker, Ofir Nachum, 2019.
@@ -132,6 +130,9 @@ TBA
 
 * <[Iris: Implicit reinforcement without interaction at scale for learning control from offline robot manipulation data](https://ieeexplore.ieee.org/abstract/document/9196935/)> by Ajay Mandlekar, et al., 2020.
 
+## Representation Learning
+
+* <Representation Matters: Offline Pretraining for Sequential Decision Making>(https://arxiv.org/abs/2102.05815) by Mengjiao Yang, Ofir Nachum, ICML 2021.
 
 
 
