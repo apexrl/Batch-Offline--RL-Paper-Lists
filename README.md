@@ -100,6 +100,8 @@ TBA
 
 * <[What are the Statistical Limits of Offline RL with Linear Function Approximation?](https://openreview.net/forum?id=30EvkP2aQLD)> by Ruosong Wang, Dean P. Foster, Shan M. Kakade, ICLR 2021.
 
+* [PEBL] <[PEBL: Pessimistic Ensembles for Offline Deep Reinforcement Learning](http://rbr.cs.umass.edu/r2aw/papers/R2AW_paper_6.pdf)> by RJordi Smit, Canmanie T. Ponnambalam, Matthijs T. J. Spaan, Frans A. Oliehoek, IJCAI R2AW 2021.
+
 ### Model-based
 
 * [MOReL] <[MOReL : Model-Based Offline Reinforcement Learning](https://arxiv.org/abs/2005.05951)> by Rahul Kidambi, Aravind Rajeswaran, Praneeth Netrapalli and Thorsten Joachims, NIPS 2020.
