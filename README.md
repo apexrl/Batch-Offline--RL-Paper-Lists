@@ -100,6 +100,8 @@ TBA
 
 * [PEBL] <[PEBL: Pessimistic Ensembles for Offline Deep Reinforcement Learning](http://rbr.cs.umass.edu/r2aw/papers/R2AW_paper_6.pdf)> by RJordi Smit, Canmanie T. Ponnambalam, Matthijs T. J. Spaan, Frans A. Oliehoek, IJCAI R2AW 2021.
 
+* [R-BVE] <[Regularized Behavior Value Estimation](https://arxiv.org/pdf/2103.09575.pdf)> by Caglar Gulcehre, Sergio Gómez Colmenarejo, Ziyu Wang, Jakub Sygnowski, Thomas Paine, Konrad Zołna,Yutian Chen, Matthew Hoffman, Razvan Pascanu, Nando de Freitas, 2021.
+
 ### Model-based
 
 * [MOReL] <[MOReL : Model-Based Offline Reinforcement Learning](https://arxiv.org/abs/2005.05951)> by Rahul Kidambi, Aravind Rajeswaran, Praneeth Netrapalli and Thorsten Joachims, NIPS 2020.
