@@ -134,7 +134,10 @@ TBA
 
 * <[Representation Matters: Offline Pretraining for Sequential Decision Making](https://arxiv.org/abs/2102.05815)> by Mengjiao Yang, Ofir Nachum, ICML 2021.
 
+## Thoery Batch RL
 
+* <[The importance of pessimism in fixed-dataset policy optimization](https://arxiv.org/abs/2009.06799)> by Jacob Buckman, Carles Gelada, Marc G. Bellemare, ICLR 2020.
 
+* <[Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085)> by Ying Jin, Zhuoran Yang, Zhaoran Wang, ICLR 2021.
 
-
+* <[Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://arxiv.org/abs/2103.12021)> by Paria Rashidinejad, Banghua Zhu, Cong Ma, Jiantao Jiao, Stuart Russell, 2021.
