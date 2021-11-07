@@ -102,6 +102,8 @@ TBA
 
 * [R-BVE] <[Regularized Behavior Value Estimation](https://arxiv.org/pdf/2103.09575.pdf)> by Caglar Gulcehre, Sergio Gómez Colmenarejo, Ziyu Wang, Jakub Sygnowski, Thomas Paine, Konrad Zołna,Yutian Chen, Matthew Hoffman, Razvan Pascanu, Nando de Freitas, 2021.
 
+* [COIL] <[Curriculum Offline Imitation Learning](https://arxiv.org/abs/2111.02056)> by Minghuan Liu, Hanye Zhao, Zhengyu Yang, Jian Shen, Weinan Zhang, Li Zhao, Tie-Yan Liu, NeurIPS 2021.
+
 ### Model-based
 
 * [MOReL] <[MOReL : Model-Based Offline Reinforcement Learning](https://arxiv.org/abs/2005.05951)> by Rahul Kidambi, Aravind Rajeswaran, Praneeth Netrapalli and Thorsten Joachims, NIPS 2020.
