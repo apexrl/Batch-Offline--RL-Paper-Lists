@@ -12,7 +12,7 @@ TBA
 ## Tutorial
 
 - <[Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)> by Sergey Levine, Aviral Kumar, George Tucker, Justin Fu, 2020.
-- <[Exponentially Weighted Imitation Learning for Batched Historical Data](https://link.springer.com/chapter/10.1007/978-3-642-27645-3_2)> by Sascha Lange, Thomas Gabel, Martin Riedmiller, 2012.
+- <[Batch Reinforcement Learning](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.229.787)> by Sascha Lange, Thomas Gabel, Martin Riedmiller, 2012.
 
 ## Early Work
 
