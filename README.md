@@ -6,14 +6,14 @@ Batch RL can be seen as an interesting specifc area in imitation learning yet it
 It is also knwon as offline RL.
 
 # Overview
-* [Tutorial](https://github.com/apexrl/Batch-Offline--Paper-Lists#tutorial)
-* [Early Work](https://github.com/apexrl/Batch-Offline--Paper-Lists#early-work)
-* [Imitation without interacting with environments](https://github.com/apexrl/Batch-Offline--Paper-Lists#imitation-without-interacting-with-environments)
-* [General Batch RL](https://github.com/apexrl/Batch-Offline--Paper-Lists#general-batch-rl)
-  * [Model-free](https://github.com/apexrl/Batch-Offline--Paper-Lists#model-free)
-  * [Model-based](https://github.com/apexrl/Batch-Offline--Paper-Lists#model-based)
-  * [Transformer](https://github.com/apexrl/Batch-Offline--Paper-Lists#transformer)
-* [Meta/Multi-task](https://github.com/apexrl/Batch-Offline--Paper-Lists#metamulti-task)
+* [Tutorial](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#tutorial)
+* [Early Work](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#early-work)
+* [Imitation without interacting with environments](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#imitation-without-interacting-with-environments)
+* [General Batch RL](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#general-batch-rl)
+  * [Model-free](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#model-free)
+  * [Model-based](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#model-based)
+  * [Transformer](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#transformer)
+* [Meta/Multi-task](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#metamulti-task)
 * [Data Augmentation](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#data-augmentation)
 * [Benchmarks](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#benchmarks)
 * [Applied Batch RL](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#applied-batch-rl)
