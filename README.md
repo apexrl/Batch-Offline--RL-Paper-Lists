@@ -6,8 +6,19 @@ Batch RL can be seen as an interesting specifc area in imitation learning yet it
 It is also knwon as offline RL.
 
 # Overview
-
-TBA
+* [Tutorial](https://github.com/apexrl/Batch-Offline--Paper-Lists#tutorial)
+* [Early Work](https://github.com/apexrl/Batch-Offline--Paper-Lists#early-work)
+* [Imitation without interacting with environments](https://github.com/apexrl/Batch-Offline--Paper-Lists#imitation-without-interacting-with-environments)
+* [General Batch RL](https://github.com/apexrl/Batch-Offline--Paper-Lists#general-batch-rl)
+  * [Model-free](https://github.com/apexrl/Batch-Offline--Paper-Lists#model-free)
+  * [Model-based](https://github.com/apexrl/Batch-Offline--Paper-Lists#model-based)
+  * [Transformer](https://github.com/apexrl/Batch-Offline--Paper-Lists#transformer)
+* [Meta/Multi-task](https://github.com/apexrl/Batch-Offline--Paper-Lists#metamulti-task)
+* [Data Augmentation](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#data-augmentation)
+* [Benchmarks](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#benchmarks)
+* [Applied Batch RL](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#applied-batch-rl)
+* [Representation Learning](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#representation-learning)
+* [Thoeretical Batch RL](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#thoeretical-batch-rl)
 
 ## Tutorial
 
@@ -101,7 +112,7 @@ TBA
 - [RAD] <[Reinforcement Learning with Augmented Data](https://proceedings.neurips.cc/paper/2020/hash/e615c82aba461681ade82da2da38004a-Abstract.html)> by Misha Laskin, Kimin Lee, Adam Stooke, Lerrel Pinto, Pieter Abbeel, Aravind Srinivas, NeurIPS 2021.
 - [S4RL] <[S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning in Robotics](https://openreview.net/forum?id=8xC5NNej-l_)> by Samarth Sinha, Ajay Mandlekar, Animesh Garg, CoRL 2021.
 
-## Benchmark
+## Benchmarks
 
 * [D4RL] <[D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219)> by Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, Sergey Levine, 2020.
 
@@ -121,7 +132,7 @@ TBA
 
 * <[Representation Matters: Offline Pretraining for Sequential Decision Making](https://arxiv.org/abs/2102.05815)> by Mengjiao Yang, Ofir Nachum, ICML 2021.
 
-## Thoery Batch RL
+## Thoeretical Batch RL
 
 * <[The importance of pessimism in fixed-dataset policy optimization](https://arxiv.org/abs/2009.06799)> by Jacob Buckman, Carles Gelada, Marc G. Bellemare, ICLR 2020.
 * <[Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085)> by Ying Jin, Zhuoran Yang, Zhaoran Wang, ICLR 2021.
