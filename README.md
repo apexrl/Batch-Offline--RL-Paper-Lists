@@ -1,7 +1,9 @@
 # Batch-RL-Paper-Lists
 Paper Collection for Batch RL with brief introductions.
 
-Batch RL can be seen as an interesting specifc area in imitation learning yet it learn purely from demonstrations (batch data) and do not need to interact with the environment.
+<!-- Batch RL can be seen as an interesting specifc area in imitation learning yet it learn purely from demonstrations (batch data) and do not need to interact with the environment. -->
+
+Batch RL requires to learn purely from arbiturary datasets (batch data) and do not need to interact with the environment.
 
 It is also knwon as offline RL.
 
@@ -109,7 +111,7 @@ It is also knwon as offline RL.
 
 - [DrQ] <[Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels](https://openreview.net/forum?id=GY6-6sTvGaf)> by Denis Yarats, Ilya Kostrikov, Rob Fergus, ICLR 2021.
 - [DrQ-v2] <[Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning](https://arxiv.org/abs/2107.09645)> by Denis Yarats, Rob Fergus, Alessandro Lazaric, Lerrel Pinto, 2021.
-- [RAD] <[Reinforcement Learning with Augmented Data](https://proceedings.neurips.cc/paper/2020/hash/e615c82aba461681ade82da2da38004a-Abstract.html)> by Misha Laskin, Kimin Lee, Adam Stooke, Lerrel Pinto, Pieter Abbeel, Aravind Srinivas, NeurIPS 2021.
+<!-- - [RAD] <[Reinforcement Learning with Augmented Data](https://proceedings.neurips.cc/paper/2020/hash/e615c82aba461681ade82da2da38004a-Abstract.html)> by Misha Laskin, Kimin Lee, Adam Stooke, Lerrel Pinto, Pieter Abbeel, Aravind Srinivas, NeurIPS 2021. -->
 - [S4RL] <[S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning in Robotics](https://openreview.net/forum?id=8xC5NNej-l_)> by Samarth Sinha, Ajay Mandlekar, Animesh Garg, CoRL 2021.
 
 ## Benchmarks
